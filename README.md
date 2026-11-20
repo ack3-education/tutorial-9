@@ -1,3 +1,5 @@
+# Tutorial 9: Advanced fuzz testing with Wake
+
 Requires Wake 5.0.0
 
 ```
@@ -20,3 +22,9 @@ Fuzzing real-world example.
 - fork testing (ERC-20, Compound protocol)
 - defining invariants
 - debugging
+
+---
+
+Part of [ack3 education](https://github.com/ack3-education): hands-on material for
+[NIE-BLO](https://courses.fit.cvut.cz/NIE-BLO/) at FIT ČVUT, published by [ack3](https://ack3.ai).
+Fuzz tests run on [Wake](https://github.com/ack3-ai/wake).
